@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MotionSensorsKotlinExample</string>
+    <string name="not_available">N/A</string>
+    <string name="sensor_rotation_vector">Rotation Vector</string>
+    <string name="sensor_linear_acceleration">Linear Acceleration</string>
+    <string name="sensor_gyroscope">Gyroscope</string>
+    <string name="sensor_gravity">Gravity</string>
+    <string name="sensor_accelerometer">Accelerometer</string>
+    <string name="coord_x">X</string>
+    <string name="coord_y">Y</string>
+    <string name="coord_z">Z</string>
+</resources>
